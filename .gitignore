@@ -1,0 +1,8 @@
+#directory dependency
+node_modules
+
+#build folder
+build
+
+#webstorm metadata
+.idea
